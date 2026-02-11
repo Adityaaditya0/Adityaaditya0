@@ -1,29 +1,55 @@
-# Aditya Aaditya
+<!-- Banner -->
+<h1 align="center">✨ Hey, I'm Aditya — AI & IoT Developer</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+IoT+Developer+%7C+ML+Enthusiast;Building+Smart+Systems+and+Intelligent+Apps;Always+Learning+New+Things+🚀" />
+</p>
 
-![Profile Image](https://raw.githubusercontent.com/Adityaaditya0/portfolio/main/images/profile.jpg)
+---
 
-## Skills
+## 🔥 About Me
+- ⚡ Passionate about **Artificial Intelligence, IoT, and Embedded Systems**
+- 🤖 I build **AI-driven real world applications**
+- 📡 Working with **OpenCV, MediaPipe, TensorFlow, PyTorch**
+- 🧠 Always exploring **Machine Learning, Computer Vision, Deep Learning**
+- 🌐 Portfolio: **https://your-portfolio-link.com**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+---
 
-## Projects
+## 🚀 Skills & Tools
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,github,vscode,raspberrypi,arduino,linux,html,css,js"/>
+</p>
 
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Project 1    | Description for Project 1 | [View](https://github.com/Adityaaditya0/project1) |
-| Project 2    | Description for Project 2 | [View](https://github.com/Adityaaditya0/project2) |
+---
 
-## GitHub Stats
+## 📊 GitHub Stats
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
-![Aditya Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityaaditya0&show_icons=true&hide_title=true&count_private=true&theme=radical)
+---
 
-## Get in Touch
+## 🌟 Featured Projects
+### 🔹 AI Projects
+- 🧠 **Face Recognition System**
+- 🚶‍♂️ **Real-time Hand Tracking using MediaPipe**
+- 🐄 **Cow Breed Prediction using Machine Learning**
 
-[LinkedIn](https://www.linkedin.com/in/adityaaditya0) | [Twitter](https://twitter.com/adityaaditya0) | [Portfolio](https://adityaaditya0.github.io/portfolio)
+### 🔹 IoT Projects
+- 🌡️ **Smart Temperature Monitoring**
+- 🔔 **IoT-based Alert System**
+- 📡 **Raspberry Pi Automation**
 
-## Call to Action
+---
 
-Feel free to reach out for collaboration or any questions! 🚀  
-[Contact Me](mailto:adityaaditya0@example.com)
+## 📫 Connect With Me
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
