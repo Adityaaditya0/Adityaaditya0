@@ -17,7 +17,7 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-<img height="40" src="https://skillicons.dev/icons?i=python,opencv,github,vscode,raspberrypi,arduino,linux,html,css,js,cmos vlsi,verilog,system verilog"/>
+<img height="40" src="https://skillicons.dev/icons?i=python,opencv,github,vscode,raspberrypi,arduino,linux,html,css,js"/> ⚙️ Verilog 🔌 VLSI
 </p>
 
 ---
