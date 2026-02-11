@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-YOUR_USERNAME
 
 👋 Hi, I'm Aditya
 Electronics & Communication Engineer | Embedded Systems | HDL (Verilog/SystemVerilog) | Robotics | Frontend Developer
@@ -88,7 +87,6 @@ Oracle AI Certification – Oracle University
 
 📊 GitHub Stats
 
-(Replace YOUR_USERNAME)
 
 
 
